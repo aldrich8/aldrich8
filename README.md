@@ -8,3 +8,4 @@ It's a new Github account, Created on May 27, 2022
 - [Extensible EventEmitter](https://github.com/branlice/vue3-template/tree/develop/src/utils/EventEmitter
 )
 - [Some gist](https://gist.github.com/branlice)
+- [An example of a self-built CI/CD platform using Golang+Jenkins](https://github.com/branlice/Branlice/tree/main/Devops)
