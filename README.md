@@ -15,6 +15,4 @@ It's a new Github account, Created on May 27, 2022
 - [Compose](https://gist.github.com/branlice/508ab49899d70c51db43557bc52fa9a7)
 
 ### A new attempt
-![image](https://github.com/aldrich8/aldrich8/assets/106362981/891620db-ef91-4b32-8766-2f5339dcfde4)
-
 [![Edit cranky-tristan-5f3ygk](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/devbox/cranky-tristan-5f3ygk?file=%2Findex.html&embed=1)
